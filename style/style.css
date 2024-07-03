@@ -1,0 +1,72 @@
+ul{
+    list-style-type: none;
+     background-color: rgb(223, 139, 49);
+}
+li{
+    display:inline;
+    padding:50px;
+    font-size:30px;
+   
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: left;
+    font-size: larger;
+}
+h2{
+    text-align: center;
+    font-size:xx-large;
+}
+.cls1{
+    background-color: rgb(220, 149, 73);
+}
+.img1{
+    padding:50px;
+}
+.img2{
+    padding:50px;
+}
+.img3{
+    padding:50px;
+}
+h3{
+    text-align: right;
+    text-decoration: underline;
+    font-size: xx-large;
+}
+h4{
+    font-size:xx-large;
+    text-align: center;
+}
+.img4{
+    padding:60px ;
+}
+.img5{
+    padding:50px;
+}
+.img6{
+    padding:50px;
+}
+.img7{
+    padding:60px;
+    }
+h5{
+    text-align: right;
+    text-decoration: underline;
+    font-size: xx-large;
+}
+.cls2{
+    background-color: rgb(156, 145, 120);
+}
+h6{
+    font-size:xx-large;
+    text-align: center;
+}
+button{
+    color: white;
+}
+.form1{
+    font-size:xx-large;
+}
